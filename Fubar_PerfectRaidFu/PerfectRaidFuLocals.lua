@@ -12,6 +12,18 @@ L:RegisterTranslations("enUS", function() return {
 	UNLOCKED = "Unlocked"
 } end )
 
+L:RegisterTranslations("ruRU", function() return {
+	NAME = "FuBar - PerfectRaidFu",
+	DESCRIPTION = "Fubar 2 плагин для PerfectRaid",
+	HIDE_LABEL = "Скрыть кнопку у мини-карты",	
+
+	HINT = "Совет",
+	HINT_DESC = "ЛКМ – блокировка окна",
+
+	LOCKED = "Заблокировано",
+	UNLOCKED = "Разблокировано"
+} end )
+
 L:RegisterTranslations("koKR", function() return {
 	NAME = "FuBar - PerfectRaidFu",
 	DESCRIPTION = "PerfectRaid용 Fubar2 플러그인",
